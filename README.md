@@ -168,37 +168,37 @@ These projects are my official HyperionDev software engineering submissions, rev
     <th>Score</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev/tree/main/Level%201/Capstone%20Project%20-%20Variables%20and%20Control%20Structures">Capstone Project - Variables and Control Structures</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Finance-Calculator">Capstone Project - Variables and Control Structures</a></td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev/tree/main/Level%201/OOP%20-%20Synthesis">OOP - Synthesis</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Shoe-Inventory-Manager">OOP - Synthesis</a></td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev/tree/main/Level%201/Capstone%20Project%20-%20Task%20Manager">Capstone Project - Task Manager</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Task-Manager">Capstone Project - Task Manager</a></td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev/tree/main/Level%202/Databases">Capstone Project - Databases</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Bookstore">Capstone Project - Databases</a></td>
     <td>Level 2</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev/tree/main/Level%202/Sticky%20Notes">Django - Sticky Notes Application</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Sticky-Notes">Django - Sticky Notes Application</a></td>
     <td>Level 2</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev/tree/main/Level%202/News%20Application">Capstone Project - News Application</a></td>
+    <td>Capstone Project - News Application</a></td>
     <td>Level 2</td>
     <td>In Progress</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev/tree/main/Level%203/Capstone%20Project%20-%20Consolidation">Capstone Project - Consolidation</a></td>
+    <td>Capstone Project - Consolidation</a></td>
     <td>Level 3</td>
     <td>In Progress</td>
   </tr>
