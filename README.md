@@ -24,6 +24,17 @@
   </p>
 </h1>
 
+<img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Table%20of%20Contents.svg" alt="About Me" height="25px"/>
+
+- [About Me](#about-me)
+- [Why This Repository Exists](#why-exists)
+- [Tech Stack](#tech-stack)
+- [Task Scores](#task-scores)
+- [What Reviewers Say](#what-reviewers-say)
+
+<h1></h1>
+
+<a name="about-me"></a>
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/About%20Me.svg" alt="About Me" height="25px"/>
 
 I'm **Xander Steyn**, a software developer with **5+ years** of hands-on coding experience built on a strong foundation in **cybersecurity**.
@@ -38,6 +49,7 @@ Now, I apply everything I learned about breaking systems to engineer software th
 
 <h1></h1>
 
+<a name="why-exists"></a>
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Why%20This%20Repository%20Exists.svg" alt="Why This Repository Exists" height="30"/>
 
 These projects are my official HyperionDev software engineering submissions, reviewed by mentors and shared with partner companies. Beyond assignments, this repository demonstrates what I consistently deliver independently and professionally.
@@ -46,6 +58,7 @@ These projects are my official HyperionDev software engineering submissions, rev
 
 <h1></h1>
 
+<a name="tech-stack"></a>
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Tech%20Stack.svg" alt="Tech Stack" height="25px"/>
 
 *Click each section below to expand*  
@@ -159,6 +172,7 @@ These projects are my official HyperionDev software engineering submissions, rev
 
 <h1></h1>
 
+<a name="task-scores"></a>
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Task%20Scores.svg" alt="Task Scores" height="25px"/>
 
 <table>
@@ -206,6 +220,7 @@ These projects are my official HyperionDev software engineering submissions, rev
 
 <h1></h1>
 
+<a name="what-reviewers-say"></a>
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/What%20Reviewers%20Say.svg" alt="What Reviewers Say" height="30px"/>
 
 - **Capstone Project - Variables and Control Structures**  
