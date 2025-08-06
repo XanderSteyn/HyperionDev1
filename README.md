@@ -26,11 +26,11 @@
 
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Table%20of%20Contents.svg" alt="About Me" height="25px"/>
 
-- [About Me](#about-me)
-- [Why This Repository Exists](#why-exists)
-- [Tech Stack](#tech-stack)
-- [Task Scores](#task-scores)
-- [What Reviewers Say](#what-reviewers-say)
+- [**About Me**](#about-me)
+- [**Why This Repository Exists**](#why-exists)
+- [**Tech Stack**](#tech-stack)
+- [**Task Scores**](#task-scores)
+- [**What Reviewers Say**](#what-reviewers-say)
 
 <h1></h1>
 
@@ -182,27 +182,27 @@ These projects are my official HyperionDev software engineering submissions, rev
     <th>Score</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev.Finance-Calculator">Capstone Project - Variables and Control Structures</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Finance-Calculator"><b>Capstone Project - Variables and Control Structures</b></a></td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev.Shoe-Inventory-Manager">OOP - Synthesis</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Shoe-Inventory-Manager"><b>OOP - Synthesis</b></a></td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev.Task-Manager">Capstone Project - Task Manager</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Task-Manager"><b>Capstone Project - Task Manager</a></td>
     <td>Level 1</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev.Bookstore">Capstone Project - Databases</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Bookstore"><b>Capstone Project - Databases</b></a></td>
     <td>Level 2</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/XanderSteyn/HyperionDev.Sticky-Notes">Django - Sticky Notes Application</a></td>
+    <td><a href="https://github.com/XanderSteyn/HyperionDev.Sticky-Notes"><b>Django - Sticky Notes Application</b></a></td>
     <td>Level 2</td>
     <td>100%</td>
   </tr>
@@ -223,21 +223,21 @@ These projects are my official HyperionDev software engineering submissions, rev
 <a name="what-reviewers-say"></a>
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/What%20Reviewers%20Say.svg" alt="What Reviewers Say" height="30px"/>
 
-- **Capstone Project - Variables and Control Structures**  
+- **[Capstone Project - Variables and Control Structures](https://github.com/XanderSteyn/HyperionDev.Finance-Calculator)**  
   > Your function names follow Python conventions clearly and descriptively.  
   > Using a helper function for input validation keeps the code DRY and maintainable.  
   > Try-except blocks handle errors well, and the output formatting is clean and readable. Excellent work.  
   >  
   > — Mentor, HyperionDev
 
-- **Capstone Project - Task Manager**  
+- **[Capstone Project - Task Manager](https://github.com/XanderSteyn/HyperionDev.Task-Manager)**  
   > Excellent work demonstrating a strong understanding of the level's topics.  
   > The task manager is user-friendly, robust, and handles input validation well.  
   > Thoughtful use of third-party modules and proper dependency management included. Well done!  
   >  
   > — Mentor, HyperionDev
 
-- **Capstone Project - Databases**  
+- **[Capstone Project - Databases](https://github.com/XanderSteyn/HyperionDev.Bookstore)**
   > Great submission demonstrating effective CRUD operations and secure database handling.  
   > The use of prepared statements prevents SQL injection, and error handling is thorough.  
   > Clear comments and docstrings enhance the project's documentation. Well done!  
