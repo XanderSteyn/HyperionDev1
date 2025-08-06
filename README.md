@@ -2,7 +2,7 @@
   <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Heading.svg" alt="Xander Steyn" title="Xander Steyn"/><br>
   
   <p align="center">
-    <a href="https://www.hyperiondev.com/portfolio/XS25040017890/">
+    <a href="https://www.hyperiondev.com/portfolio/XS25040017890/" target="_blank" rel="noopener noreferrer">
       <img width="40px" alt="Portfolio" title="Portfolio" src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Socials/HyperionDev.png"/>
     </a>
     &#8287;&#8287;
