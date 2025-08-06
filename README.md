@@ -122,7 +122,7 @@ These projects are my official HyperionDev software engineering submissions, rev
 &#8287;**DevOps & Deployment:**  
 &#8287;&#8287;• Docker  
 &#8287;&#8287;• GitHub Actions  
-&#8287;&#8287;• AWS
+&#8287;&#8287;• AWS  
 &#8287;&#8287;• Google Cloud Platform (GCP)  
 &#8287;&#8287;• Heroku  
 &#8287;&#8287;• Netlify  
@@ -149,7 +149,6 @@ These projects are my official HyperionDev software engineering submissions, rev
 > These tools are just the surface; I adapt to each situation using a mix of scripting, manual testing, and layered techniques.
 
 &#8287;**Core Skills:**  
-&#8287;&#8287;• Ethical Hacking  
 &#8287;&#8287;• Penetration Testing  
 &#8287;&#8287;• Vulnerability Assessment  
 &#8287;&#8287;• Secure Coding  
@@ -209,12 +208,12 @@ These projects are my official HyperionDev software engineering submissions, rev
   <tr>
     <td>Capstone Project - News Application</a></td>
     <td>Level 2</td>
-    <td>In Progress</td>
+    <td><b>In Progress</b></td>
   </tr>
   <tr>
     <td>Capstone Project - Consolidation</a></td>
     <td>Level 3</td>
-    <td>In Progress</td>
+    <td><b>In Progress</b></td>
   </tr>
 </table>
 
